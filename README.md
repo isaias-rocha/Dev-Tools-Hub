@@ -83,6 +83,7 @@ Bancos de mídia perfeitos para layouts, aplicativos, sites e protótipos:
 
 * [Animista](https://animista.net/) → Coleção de animações CSS prontas com interface visual para customizar e copiar o código.
 * [CSS Glassmorphism](https://cssglass.io/) → Gerador visual para criar o efeito de "vidro fosco" moderno usando propriedades CSS.
+* [LottieFiles](https://lottiefiles.com/pt/) → Projetado para criar animações ultra-leves, altamente personalizáveis e interativas para web, aplicativos...
 
 ---
 
